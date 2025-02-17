@@ -95,7 +95,7 @@ Example 3:
 Input: list1 = [], list2 = [0]
 Output: [0]
 
-# Problema_224
+## Problema_224
 
 Given a positive integer n, write a function that returns the number of 
 set bits in its binary representation (also known as the Hamming weight).
